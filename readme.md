@@ -8,3 +8,4 @@ labeled 1 for the one in line with the left motor and 2 for the one in line with
 **Pump Addition** - 2: 0 lines lattitude & 16 lines longitude (both angled beams should touch the southern wall)<br>
 **Flow** - 2: 0 lines lattitude & 7 lines longitude (both angled beams should touch the southern wall & both wheels 
       should line up over the red lego logo)<br>
+**Rain** - 1: 0 lines lattitude & 22 lines longitude (all parts are in circle but watch out to make sure the touch sensor doesn't go out of the circle)
